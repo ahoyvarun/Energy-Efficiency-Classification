@@ -50,5 +50,6 @@ This project uses machine learning models—specifically a neural network (MLPCl
 ---
 
 🙋‍♂️ Author
+
 **Varun Chaturvedi**
 [LinkedIn](https://www.linkedin.com/in/varunchaturvedii/)
